@@ -1,0 +1,26 @@
+[
+    {
+        "username": "minakshi",
+        "password": "Minakshi@123",
+        "description": "hsddowueddff",
+        "dob": "12/08/98",
+        "hobbies": "sdfghjkl",
+        "gender": "female"
+    },
+    {
+        "username": "savita",
+        "password": "Savita@123",
+        "description": "memanesavita",
+        "dob": "20/05/2000",
+        "hobbies": "dance",
+        "gender": "female"
+    },
+    {
+        "username": "priti meshram",
+        "password": "Priti@10",
+        "description": "i'm priti",
+        "dob": "10/11/1999",
+        "hobbies": "dance",
+        "gender": "female"
+    }
+]
